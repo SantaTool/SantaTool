@@ -2,12 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&center=true&vCenter=true&width=500&height=100&duration=4000&lines=Hi+there+👋🏻;+My+name+is+Santa+Debnath!;" />
 </h1>
 
-<p align="center">
+<img align="right" height="250" width="400" src="https://media3.giphy.com/media/p4NLw3I4U0idi/giphy.gif?cid=ecf05e47u651twctsezhzbsw8myzchukcjxu7oeakq3ujf17&rid=giphy.gif" />
+<div align="left">
   <li>🌱 I’m currently learning HTML programming...</li>
-    <li>💡 Fun fact: I love gaming almost as much as I love coffee ☕</li>
-  <img align="right" height="250" width="400" src="https://media3.giphy.com/media/p4NLw3I4U0idi/giphy.gif?cid=ecf05e47u651twctsezhzbsw8myzchukcjxu7oeakq3ujf17&rid=giphy.gif" />
-</p>
-
+  <li>💡 Fun fact: I love gaming almost as much as I love coffee ☕</li>
+    
 <!--
 **SantaTool/SantaTool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
