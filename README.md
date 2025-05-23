@@ -1,9 +1,10 @@
-## Hi there 👋<!--<h1 align="center">Hi there 👋, -->I'm Santa Debnath</h1>
-<!--<h3 align="center">A passionate developer from India</h3>-->
+## <!-- Static heading -->
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&vCenter=true&width=435&lines=Hi+there+👋;I'm+Santa+Debnath" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 </p>
+
 <!--
 **SantaTool/SantaTool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
