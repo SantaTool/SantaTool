@@ -1,5 +1,4 @@
-## Hi there 👋
-<!--<h1 align="center">Hi there 👋, -->I'm Santa Debnath</h1>
+## Hi there 👋<!--<h1 align="center">Hi there 👋, -->I'm Santa Debnath</h1>
 <!--<h3 align="center">A passionate developer from India</h3>-->
 
 <p align="center">
