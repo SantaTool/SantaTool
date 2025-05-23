@@ -1,5 +1,4 @@
-## <!-- Static heading -->
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&vCenter=true&width=435&lines=Hi+there+👋;I'm+Santa+Debnath" alt="Typing SVG" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&vCenter=true&width=435&lines=Hi+there+👋;I+ am+Santa+Debnath" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
