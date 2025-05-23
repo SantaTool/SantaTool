@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi there 👋, I'm Santa Debnath</h1>
-<h3 align="center">A passionate developer from [Your Country]</h3>
+<!--<h3 align="center">A passionate developer from India</h3>-->
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
