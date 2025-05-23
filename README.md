@@ -1,6 +1,6 @@
-## <!-- Static heading -->
 <h1 align="center">
-## <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&center=true&vCenter=true&width=500&height=100&duration=4000&lines=Hi+there+👋🏻;+My+name+is+Santa+Debnath!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&center=true&vCenter=true&width=500&height=100&duration=4000&lines=Hi+there+👋🏻;+My+name+is+Santa+Debnath!;" />
+</h1>
 
 <p align="center">
   <!--<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">-->
